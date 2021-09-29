@@ -1,6 +1,6 @@
 from time import sleep
 
-from config import bot_token, ffmpeg_exe_path, beacon_mp3
+from config import *
 import discord
 from discord.ext import commands
 from discord.utils import get
